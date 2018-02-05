@@ -1,6 +1,6 @@
 # [AngularJS Portfolio](iamjigz.github.io)
 
-**https://iamjigz.github.io/jigz**
+**https://iamjigz.github.io/jigz-portfolio/**
 is my personal portfolio page.
 You will most likely find it hosted in [GitHub Pages](https://iamjigz.github.io/jigz).
 
@@ -52,7 +52,7 @@ http-server C:\location\to\app
 ## Author
 
 * **Jigno Alfred V. Venezuela** - [@iamjigz](https://github.com/iamjigz)
-* Homepage: https://iamjigz.github.io/jigz/
+* Homepage: https://iamjigz.github.io/jigz-portfolio/
 * e-mail: jigzimon@gmail.com
 
 ## Acknowledgments
