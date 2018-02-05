@@ -2,7 +2,7 @@
 
 **https://iamjigz.github.io/jigz-portfolio/**
 is my personal portfolio page.
-You will most likely find it hosted in [GitHub Pages](https://iamjigz.github.io/jigz).
+You will most likely find it hosted in [GitHub Pages](https://iamjigz.github.io/jigz-portfolio/).
 
 
 ## Description
